@@ -1,0 +1,5 @@
+{
+  "name": "EU Stock Movers +",
+  "description": "An application that fetches and displays the top 4 daily stock market gainers and losers for major Euronext exchanges, with data sorting and CSV export functionality.",
+  "requestFramePermissions": []
+}
